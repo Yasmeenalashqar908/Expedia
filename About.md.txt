@@ -1,0 +1,38 @@
+Assignment 
+
+ --------------------------
+|    Tools and Program:    |
+ --------------------------
+1) Download These programs : Eclipse , Appachi tomcat
+2) Json formatter and postman
+3) JDK and JRE
+
+
+
+ --------------------------
+|          Steps           |
+ --------------------------
+1)Prepare server using appachi tomcat , then add Maven project on it then publish project on server and runs.
+2)Access tomcat need to update "tomcat-users" file to set username and password.
+3)create required servlet , jsp.
+4)Create Class to access Hotel Information using setter and getter functions
+
+
+
+ --------------------------
+| Designing & Presentation:|
+ --------------------------
+1)Download suitable bootstrape for hotel using these web site https://w3layouts.com/dream-hotel-restaurant-category-bootstrap-responsive-web-template/
+2)Add All bootstrap folder (css,js,image,font) to project
+3)Update jsp file with hotel bootstrap
+
+ --------------------------
+| Aim of Hotel Application |
+ --------------------------
+* Design hotel web site to help people to choose suitable hotel depend on requirement that likes to be in hotel.
+
+
+ 
+ 
+ 
+ 
